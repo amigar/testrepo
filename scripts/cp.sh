@@ -1,2 +1,2 @@
 #!/bin/bash
-cp ~/root/scripts/db.php /var/www/html/testrepo/
+cp ~/scripts/db.php /var/www/html/testrepo/

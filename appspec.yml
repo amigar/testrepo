@@ -17,6 +17,6 @@ permissions:
 #      runas: root
 #    - location: scripts/startapache.sh
 #      runas: root
-#   AfterInstall:
-#    - location: scripts/restartapache.sh
-#      runas: root
+   AfterInstall:
+    - location: ~/root/scripts/cp.sh
+      runas: root
